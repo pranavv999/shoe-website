@@ -110,7 +110,7 @@ ul {
 .index-main {
     width: 100%;
     margin: auto;
-    background-image: url("img/main-background1.jpg");
+    background-image: url("../img/main-background1.jpg");
     height: 80vh;
     background-size: cover;
     background-position: center center;
